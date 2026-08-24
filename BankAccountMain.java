@@ -1,3 +1,4 @@
+//Write a java program to manage bank customer accounts using constructors.
 import java.util.Scanner;
 public class BankAccountMain{
 	public static void main(String[] args){
