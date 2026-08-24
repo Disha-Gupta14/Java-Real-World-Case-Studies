@@ -1,3 +1,4 @@
+//Write a java program to calculate painting cost of a room using class.
 public class PaintingCostMain{
 	public static void main(String[] args){
 	PaintingCost p1=new PaintingCost();
