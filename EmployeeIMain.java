@@ -1,3 +1,4 @@
+//Write a Java program to demonstrate Single Inheritance using Employee and Manager classes to calculate total salary.
 import java.util.Scanner;
 public class EmployeeIMain{
 	public static void main(String[] args){
