@@ -1,3 +1,4 @@
+//Write a Java program to demonstrate Single Inheritance using BankAccount and SavingsAccount classes to calculate interest.
 import java.util.Scanner;
 public class BankAccountIMain{
 	public static void main(String[] args){
