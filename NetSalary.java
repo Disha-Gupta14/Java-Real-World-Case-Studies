@@ -1,3 +1,6 @@
+//Write a java program to calculate net salary of the employee and also print the salary receipt.
+//DA:60%, HRA:30%, MA:20%, TA:15%, PF:10%
+//Net Salary: BS+DA+HRA+MA+TA-PF
 public class NetSalary{
 	public static void main(String[]args){
 		int BS, DA, HRA, MA, TA, PF, Total,NetSalary,empId;
