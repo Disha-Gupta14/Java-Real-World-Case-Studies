@@ -1,3 +1,4 @@
+//Write a Java program to calculate interest on savings.
 import java.util.Scanner;
 public class SavingAccountMain{
 	public static void main(String[] args){
