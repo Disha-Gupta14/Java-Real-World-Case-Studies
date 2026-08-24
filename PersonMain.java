@@ -1,3 +1,5 @@
+//Write a Java program to demonstrate multilevel inheritance using Person, Student, SchoolStudent, CollegeStudent, Employee, Teaching, 
+//and NonTeaching classes. Calculate the percentage for students and display the salary for employees.
 import java.util.Scanner;
 public class PersonMain{
 	public static void main(String[] args){
