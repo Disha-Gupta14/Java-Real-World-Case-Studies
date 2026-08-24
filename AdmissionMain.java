@@ -1,3 +1,4 @@
+//Write a java program to create a student admission system using constructors.
 import java.util.Scanner;
 public class AdmissionMain{
 	public static void main(String[] args){
