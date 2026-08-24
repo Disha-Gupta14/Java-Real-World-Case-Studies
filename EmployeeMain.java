@@ -1,9 +1,10 @@
+//Write a java program to display a employee reciept using class.
 public class EmployeeMain{
 	public static void main(String[]args){
-	int bs=Integer.parseInt(args[0]);
-	Employee e1=new Employee(bs);
-	e1.SalaryCalculation();
-	e1.Display();
+		int bs=Integer.parseInt(args[0]);
+		Employee e1=new Employee(bs);
+		e1.SalaryCalculation();
+		e1.Display();
 	}
 }
 class Employee{
