@@ -1,3 +1,6 @@
+//Write a Java program to create an interface Employee with methods for salary and leave calculation, having child classes Teaching, 
+//Non-Teaching and Adobe with their respective salary components. Implement leave deductions based on late marks and annual leaves as
+//given for each employee type.
 import java.util.Scanner;
 public class EmployeeInterfaceMain{
 	public static void main(String[] args){
